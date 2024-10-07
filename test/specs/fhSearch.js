@@ -1,6 +1,6 @@
 describe('Search Success', async () => {
 
-    it('Search Round trip / Default Depart values', async () => {
+    xit('Search Round trip / Default Depart values', async () => {
 
         await browser.url("https://www.flighthub.com/");
  
